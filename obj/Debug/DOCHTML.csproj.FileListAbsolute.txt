@@ -1,0 +1,9 @@
+G:\DOCHTML\bin\Debug\DOCHTML.exe
+G:\DOCHTML\bin\Debug\DOCHTML.pdb
+G:\DOCHTML\obj\Debug\DOCHTML.csprojAssemblyReference.cache
+G:\DOCHTML\obj\Debug\DOCHTML.DocHtmlForm.resources
+G:\DOCHTML\obj\Debug\DOCHTML.Properties.Resources.resources
+G:\DOCHTML\obj\Debug\DOCHTML.csproj.GenerateResource.cache
+G:\DOCHTML\obj\Debug\DOCHTML.csproj.CoreCompileInputs.cache
+G:\DOCHTML\obj\Debug\DOCHTML.exe
+G:\DOCHTML\obj\Debug\DOCHTML.pdb
