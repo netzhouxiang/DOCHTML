@@ -87,7 +87,7 @@ namespace DOCHTML
             this.MinimizeBox = false;
             this.Name = "DocHtmlForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "DOC转HTML工具 - 深圳蔓延科技有限公司";
+            this.Text = "DOC转HTML工具";
             this.Load += new System.EventHandler(this.DocHtmlForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

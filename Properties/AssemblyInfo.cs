@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DOCHTML")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("深圳蔓延科技有限公司")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DOCHTML")]
 [assembly: AssemblyCopyright("Copyright ©  2023 周祥")]
 [assembly: AssemblyTrademark("")]
