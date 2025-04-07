@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DOCHTML")]
-[assembly: AssemblyCopyright("Copyright ©  2023 周祥")]
+[assembly: AssemblyCopyright("Copyright ©  2024 bbdaxia.com")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
